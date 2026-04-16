@@ -1,0 +1,6 @@
+ultralytics
+deepface
+opencv-python-headless
+pillow
+matplotlib
+tensorflow
